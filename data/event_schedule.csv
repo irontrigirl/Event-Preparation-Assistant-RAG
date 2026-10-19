@@ -1,0 +1,15 @@
+session_id,date,start_time,end_time,session_title,session_type,room,speaker_id,max_capacity,notes
+S001,2026-11-14,09:00,09:30,Registration & Welcome Coffee,Registration,Foyer,,,Delegates collect badges at the registration desk. Photo ID required.
+S002,2026-11-14,09:30,10:00,Opening Keynote: The Future of Brand Communications,Keynote,Main Hall,SP001,300,Live-streamed. Recording available post-event.
+S003,2026-11-14,10:00,10:45,Panel: AI in PR and Stakeholder Engagement,Panel,Main Hall,SP002|SP003,300,Q&A in final 15 minutes. Submit questions via the event app.
+S004,2026-11-14,10:45,11:00,Morning Networking Break,Break,Foyer,,,Refreshments provided. Dietary options labelled.
+S005,2026-11-14,11:00,12:00,Workshop A: Crisis Communications Playbook,Workshop,Room 1,SP004,40,Seats limited. Pre-registration required. Hands-on exercises.
+S006,2026-11-14,11:00,12:00,Workshop B: Data-Driven Storytelling,Workshop,Room 2,SP005,40,Seats limited. Pre-registration required. Laptop recommended.
+S007,2026-11-14,12:00,13:00,Networking Lunch,Lunch,Dining Hall,,,Buffet lunch. Vegetarian and vegan options available.
+S008,2026-11-14,13:00,13:45,Keynote: Measuring Comms ROI in 2027,Keynote,Main Hall,SP006,300,Sponsor presentation follows immediately after.
+S009,2026-11-14,13:45,14:30,Sponsor Showcase & Exhibition,Exhibition,Foyer,,,Visit exhibitor stands. Prize draw at 14:20.
+S010,2026-11-14,14:30,15:30,Roundtable: ESG Reporting and Transparent Comms,Roundtable,Room 3,SP002|SP007,25,Invitation only. Delegates must confirm attendance by 12 Nov.
+S011,2026-11-14,15:30,15:45,Afternoon Tea Break,Break,Foyer,,,
+S012,2026-11-14,15:45,16:30,Closing Panel: Trends Shaping Comms in 2027,Panel,Main Hall,SP001|SP003|SP006,300,Audience vote on top trend at close.
+S013,2026-11-14,16:30,17:00,Closing Remarks & Awards,Ceremony,Main Hall,SP001,,Best Campaign Award and Rising Star Award presented.
+S014,2026-11-14,17:00,19:00,Evening Drinks Reception,Reception,Rooftop Terrace,,,Dress code: smart casual. Ticket required; not included in standard registration.
