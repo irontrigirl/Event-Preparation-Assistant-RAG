@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+.yarn/
+
+# build output
+.next/
+.build/
+out/
+dist/
+build/
+
+# env / secrets
+.env
+.env.local
+.env.production
+
+# generated
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# misc
+.DS_Store
+*.log
+.vscode/
+.idea/
+__pycache__/
